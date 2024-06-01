@@ -68,7 +68,7 @@ p {
 	font-size: 15px;
 }
 #hero_image {
-	background-image: url('/assets/images/image-web-3-mobile.jpg');
+	background-image: url('/team-alpha/assets/images/image-web-3-mobile.jpg');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -150,7 +150,7 @@ p {
 
 @media screen and (min-width: 700px) {
 	#hero_image {
-		background-image: url('/assets/images/image-web-3-desktop.jpg');
+		background-image: url('/team-alpha/assets/images/image-web-3-desktop.jpg');
 		width: 100%;
 		min-height: 250px;
 	}
